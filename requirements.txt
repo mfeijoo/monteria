@@ -6,5 +6,4 @@ fsspec
 s3fs
 pymedphys
 scipy
-glob
 smart_open
